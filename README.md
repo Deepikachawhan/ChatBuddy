@@ -2,6 +2,12 @@
 A simple AI-powered chatbot built using HTML, CSS, JavaScript 
 and integrating an external AI API for generating responses.
 
+ ## Live Demo
+
+You can explore the live version of the eCommerce website here:
+
+[View Live Demo](https://ai-pal.netlify.app/)
+
 ## 🌟 Features
 ✅ Interactive chat interface 💬<br>
 ✅ AI-powered responses using API 🤖<br>
